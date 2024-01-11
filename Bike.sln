@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bike", "Bike\Bike.csproj", "{597C2436-8308-444A-8139-466DECCEF6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{86255CDB-82F2-4D7A-83AB-2FEDE5BD8CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597C2436-8308-444A-8139-466DECCEF6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597C2436-8308-444A-8139-466DECCEF6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597C2436-8308-444A-8139-466DECCEF6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597C2436-8308-444A-8139-466DECCEF6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86255CDB-82F2-4D7A-83AB-2FEDE5BD8CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86255CDB-82F2-4D7A-83AB-2FEDE5BD8CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86255CDB-82F2-4D7A-83AB-2FEDE5BD8CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86255CDB-82F2-4D7A-83AB-2FEDE5BD8CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886DD95F-A059-46C6-B04E-B0FB5C20044B}
+	EndGlobalSection
+EndGlobal
